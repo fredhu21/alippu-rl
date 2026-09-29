@@ -1,5 +1,5 @@
 # alippu-rl
-best rl practice for alibaba zhenwu chips(ppu)
+best rl practice for alibaba zhenwu M890P chips(ppu-1.5)
 
 # TLDR
 It is super easy to use. Just like the official website said, Megatron/Sglang/Verl can be used with nearly zero modifications. and its performance like 1/2 Nvidia H200
